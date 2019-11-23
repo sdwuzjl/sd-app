@@ -8,6 +8,12 @@ this is noff change
 
 haha
 
+<<<<<<< HEAD
 heihei
 
 wangziming WQ!
+=======
+wangziming WQ!
+
+kaiSin1
+>>>>>>> dev
